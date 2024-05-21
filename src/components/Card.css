@@ -1,0 +1,12 @@
+.card{
+    width: 300px;
+    border-radius: 20px;
+    background-color: aqua;
+    box-shadow: 2px 2px 5px cornflowerblue;
+    padding: 10px;
+    text-align: center;
+    border: 2px coral;
+}  
+.card img{
+    max-width: 25%;
+} 
